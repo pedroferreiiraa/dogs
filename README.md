@@ -29,6 +29,5 @@ It is a very robust project that gave me several notions and learnings
 ![Captura de tela de 2022-09-13 10-23-02](https://user-images.githubusercontent.com/69644994/189912784-0b154964-8869-40de-b83b-891efc56444e.png)![Captura de tela de 2022-09-13 10-22-52](https://user-images.githubusercontent.com/69644994/189912787-8b5b9551-e53d-4038-9140-ea711c0ac4fe.png)
 ![Captura de tela de 2022-09-13 10-22-44](https://user-images.githubusercontent.com/69644994/189912790-b3063330-05e5-4287-90e8-94a5fcfa6d1f.png)
 ![Captura de tela de 2022-09-13 10-22-31](https://user-images.githubusercontent.com/69644994/189912792-abc1afb1-e6f1-4eeb-8417-6a7d28640b1c.png)
-![Captura de tela de 2022-09-13 10-22-08](https://user-images.githubusercontent.com/69644994/189912796-18666f21-4d18-4801-bd9b-509b8207f750.png)
-![Captura de tela de 2022-09-13 10-21-56](https://user-images.githubusercontent.com/69644994/189912798-17d9a88a-6641-48ee-aa61-ed1dbb969877.png)
+
 
